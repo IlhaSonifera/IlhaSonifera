@@ -5,7 +5,6 @@
 
 - 📚 Pretendo aprender mais sobre a linguagem Ren'Py e a linguagem de fundo
 - ✅ Todas as traduções, se permitidas, estarão no meu repositório e no perfil do reddit
-- ✅ Todas as traduções terão os devidos créditos no repositório e no próprio arquivo .zip
-
+- ✅ Todas as traduções terão os devidos créditos no repositório, ou em qualquer outro lugar que forem publicadas
 
 
