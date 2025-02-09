@@ -1,6 +1,6 @@
 # Olá, me chamo Ilha! (ou Tanguinho para os mais íntimos)
 
-### 📝 A pouco tempo trabalho com tradução de adicionais para o mod MAS (Monika After Story)
+### 📝 A pouco tempo trabalhando com tradução de adicionais para o mod MAS (Monika After Story)
 
 
 - 📚 Pretendo aprender mais sobre a linguagem Ren'Py e a linguagem de fundo
