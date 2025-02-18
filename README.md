@@ -1,4 +1,3 @@
-# Olá, me chamo Ilha! 💚✳
 
 ### 📝 A pouco tempo trabalhando com tradução de adicionais para o mod MAS (Monika After Story)
 
